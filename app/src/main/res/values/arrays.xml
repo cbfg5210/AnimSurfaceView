@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="array_wr">
+        <item>@drawable/watch_reward_1</item>
+        <item>@drawable/watch_reward_2</item>
+        <item>@drawable/watch_reward_3</item>
+        <item>@drawable/watch_reward_4</item>
+        <item>@drawable/watch_reward_5</item>
+        <item>@drawable/watch_reward_6</item>
+        <item>@drawable/watch_reward_7</item>
+        <item>@drawable/watch_reward_8</item>
+        <item>@drawable/watch_reward_9</item>
+        <item>@drawable/watch_reward_10</item>
+        <item>@drawable/watch_reward_11</item>
+        <item>@drawable/watch_reward_12</item>
+        <item>@drawable/watch_reward_13</item>
+        <item>@drawable/watch_reward_14</item>
+        <item>@drawable/watch_reward_15</item>
+        <item>@drawable/watch_reward_16</item>
+        <item>@drawable/watch_reward_17</item>
+        <item>@drawable/watch_reward_18</item>
+        <item>@drawable/watch_reward_19</item>
+        <item>@drawable/watch_reward_20</item>
+        <item>@drawable/watch_reward_21</item>
+        <item>@drawable/watch_reward_22</item>
+    </integer-array>
+
+    <integer-array name="array_fr">
+        <item>@drawable/frame0</item>
+        <item>@drawable/frame1</item>
+        <item>@drawable/frame2</item>
+        <item>@drawable/frame3</item>
+        <item>@drawable/frame4</item>
+        <item>@drawable/frame5</item>
+        <item>@drawable/frame6</item>
+        <item>@drawable/frame7</item>
+        <item>@drawable/frame8</item>
+        <item>@drawable/frame9</item>
+        <item>@drawable/frame10</item>
+        <item>@drawable/frame11</item>
+        <item>@drawable/frame12</item>
+        <item>@drawable/frame13</item>
+        <item>@drawable/frame14</item>
+        <item>@drawable/frame15</item>
+        <item>@drawable/frame16</item>
+        <item>@drawable/frame17</item>
+        <item>@drawable/frame18</item>
+        <item>@drawable/frame19</item>
+    </integer-array>
+</resources>
