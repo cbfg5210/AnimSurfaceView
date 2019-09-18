@@ -241,6 +241,8 @@ public class AnimSurfaceView extends SurfaceView implements SurfaceHolder.Callba
                     .asBitmap()
                     .load(resId)
                     .override(reqWidth, reqHeight)
+                    //以下一句貌似对速度没什么优化
+                    //.diskCacheStrategy(DiskCacheStrategy.RESOURCE)
                     .submit()
                     .get();
         } catch (Exception e) {
